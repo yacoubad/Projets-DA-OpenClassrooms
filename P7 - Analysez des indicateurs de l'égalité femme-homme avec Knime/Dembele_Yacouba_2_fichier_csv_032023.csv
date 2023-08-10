@@ -1,0 +1,257 @@
+"Ancienneté_an","Service","Work_accident","Contrat","Durée hebdo","Salaire base mensuel","Augmentation","Promotion","Sexe","Age"
+22.5,"Consultant","Non","CDI",35,9873.5,0,0,"F",47
+10.8,"Consultant","Non","CDI",35,4296.7167,0,1,"H",67
+13,"RH","Oui","CDI",35,3705.2167,1,1,"F",53
+21.7,"Consultant","Non","CDI",35,1697.15,1,0,"H",59
+3.3,"R&D","Oui","CDD",35,2848.3,1,0,"H",40
+10.5,"Commercial","Non","CDI",35,5464.55,0,0,"H",54
+17.8,"Marketing","Oui","CDI",35,9999.3833,0,1,"H",46
+8.2,"RH","Oui","CDI",24,3116.88,0,1,"F",67
+7.5,"Marketing","Non","CDI",24,5462.08,0,1,"H",37
+18.9,"Compta Finances","Oui","CDI",35,2769.4333,0,0,"H",44
+5.9,"RH","Oui","CDI",35,5522.1833,1,1,"F",67
+20.2,"Consultant","Non","CDI",35,7308.8167,0,1,"F",44
+22.4,"Commercial","Non","CDI",24,5895.76,1,1,"F",58
+20,"R&D","Non","CDI",35,7081.3167,0,1,"H",59
+13.1,"Commercial","Oui","CDI",35,6195.5833,0,1,"H",53
+23.3,"Marketing","Non","CDI",35,5517.6333,1,1,"H",51
+15.2,"R&D","Non","CDI",35,8458.45,0,0,"H",43
+3.2,"Consultant","Oui","CDI",35,2132.4333,1,1,"F",52
+25,"Consultant","Non","CDI",35,3097.0333,0,0,"F",67
+16.3,"Compta Finances","Oui","CDI",35,8218.8167,0,1,"F",68
+8.4,"Consultant","Oui","CDI",35,5388.7167,1,0,"F",51
+12.2,"Consultant","Oui","CDI",35,1873.0833,0,0,"H",54
+15.8,"Commercial","Oui","CDI",35,4152.6333,1,1,"F",54
+5.8,"R&D","Oui","CDI",35,9096.9667,0,1,"H",64
+15.6,"Marketing","Oui","CDI",35,7264.8333,0,1,"H",63
+5.3,"Compta Finances","Oui","CDI",35,2052.05,1,1,"F",35
+1.3,"Consultant","Oui","CDD",32,2496,1,1,"F",55
+9.2,"RH","Oui","CDI",35,2767.9167,1,0,"H",67
+3.1,"RH","Non","CDI",35,3486.8167,0,1,"H",36
+10.3,"Consultant","Oui","CDI",24,1709.76,1,1,"H",56
+6.8,"Commercial","Oui","CDI",35,3165.2833,0,1,"F",64
+22.8,"Marketing","Oui","CDI",35,6002.9667,1,1,"H",53
+8.2,"Marketing","Oui","CDI",35,2998.45,1,1,"H",35
+24,"RH","Oui","CDI",35,3508.05,0,1,"H",54
+24.4,"Consultant","Non","CDI",35,3232.0167,0,0,"H",47
+23.7,"Consultant","Oui","CDI",28,1851.5467,0,1,"H",50
+15.7,"RH","Non","CDI",35,5359.9,1,0,"H",66
+18.4,"Commercial","Non","CDI",35,9069.6667,0,0,"H",49
+6,"Compta Finances","Oui","CDI",35,7377.0667,1,1,"F",65
+3.7,"RH","Oui","CDI",35,7157.15,0,0,"F",44
+15.6,"Commercial","Non","CDI",35,8714.7667,1,0,"H",62
+9.3,"Consultant","Non","CDI",35,2070.25,0,0,"F",32
+15.7,"Compta Finances","Non","CDI",35,8073.2167,1,1,"H",55
+17.1,"Consultant","Non","CDI",35,1651.65,0,0,"H",46
+17.4,"Consultant","Oui","CDI",35,4516.6333,1,0,"F",50
+17.2,"Compta Finances","Oui","CDI",35,3383.6833,0,0,"H",54
+1.4,"Consultant","Non","CDD",35,3168.3167,1,1,"F",51
+5.8,"RH","Oui","CDI",35,4499.95,1,0,"H",57
+1.4,"Marketing","Non","CDD",35,1989.8667,1,1,"H",42
+2.5,"Marketing","Non","CDI",35,1863.9833,1,1,"F",39
+9.1,"R&D","Oui","CDI",35,9366.9333,1,1,"F",52
+23.9,"Marketing","Non","CDI",24,6842.16,1,1,"H",63
+1.7,"Commercial","Oui","CDD",35,3185,1,1,"F",51
+22.4,"Marketing","Non","CDI",35,3582.3667,1,1,"H",52
+8.2,"Compta Finances","Non","CDI",35,1833.65,0,1,"H",61
+4.2,"R&D","Oui","CDI",35,6356.35,1,0,"F",41
+0.4,"Consultant","Oui","CDD",35,3033.3333,1,1,"F",67
+3.8,"Consultant","Non","CDI",35,7672.8167,1,1,"F",47
+6.3,"Consultant","Oui","CDI",24,1110.72,1,1,"H",56
+7.3,"Consultant","Oui","CDI",24,5448.56,0,1,"H",59
+19,"Compta Finances","Non","CDI",35,1835.1667,0,1,"H",43
+10.3,"Compta Finances","Non","CDI",35,8056.5333,0,1,"F",65
+7.4,"Consultant","Oui","CDI",35,9737,1,1,"H",58
+23.9,"Commercial","Oui","CDI",35,5581.3333,1,0,"F",45
+16.2,"RH","Non","CDI",35,5056.5667,1,1,"F",39
+10.7,"RH","Oui","CDI",35,9039.3333,1,1,"H",35
+1.9,"Commercial","Oui","CDD",35,2881.6667,1,1,"F",59
+9.7,"RH","Non","CDI",35,6175.8667,0,1,"H",35
+0.6,"Marketing","Oui","CDD",35,2426.6667,1,1,"F",56
+23,"Compta Finances","Oui","CDI",35,7898.8,0,1,"F",67
+21.1,"Consultant","Oui","CDI",35,9447.3167,1,1,"H",52
+21.6,"Commercial","Oui","CDI",35,2396.3333,0,1,"H",54
+8.3,"R&D","Non","CDI",35,8716.2833,0,0,"H",39
+16.2,"Consultant","Oui","CDI",35,2731.5167,1,1,"F",54
+10.8,"Commercial","Oui","CDI",35,7942.7833,1,0,"F",51
+6.5,"Consultant","Oui","CDI",35,7178.3833,1,0,"H",39
+15.7,"Consultant","Non","CDI",35,5585.8833,1,0,"F",39
+20.4,"RH","Non","CDI",35,8277.9667,0,0,"H",43
+12.8,"Commercial","Oui","CDI",35,2369.0333,0,0,"F",41
+20.6,"Marketing","Oui","CDI",35,3462.55,1,0,"H",46
+9.2,"Commercial","Oui","CDI",35,2511.6,0,1,"H",44
+20.1,"Consultant","Non","CDI",35,9400.3,1,1,"H",61
+1.1,"Marketing","Oui","CDD",35,3640,1,1,"F",51
+5.5,"Consultant","Non","CDI",35,1774.5,1,1,"F",54
+16.8,"Marketing","Oui","CDI",35,3597.5333,1,1,"F",45
+8.2,"Marketing","Oui","CDI",24,5951.92,1,0,"F",56
+0.8,"Compta Finances","Oui","CDD",35,3201.6833,1,1,"F",32
+7.5,"RH","Non","CDI",35,3335.15,1,0,"H",60
+12,"Consultant","Oui","CDI",35,4712.2833,1,1,"F",46
+24.9,"Commercial","Non","CDI",35,5984.7667,0,1,"H",52
+5.3,"Commercial","Oui","CDI",35,2928.6833,1,1,"F",60
+9.7,"Consultant","Oui","CDI",35,6301.75,0,1,"F",64
+19.3,"RH","Non","CDI",35,3218.3667,1,0,"F",56
+4.4,"Consultant","Oui","CDI",35,1803.3167,1,0,"H",38
+12.7,"RH","Oui","CDI",35,7263.3167,1,0,"H",60
+4.2,"Marketing","Oui","CDI",35,2912,0,1,"F",62
+7.1,"Consultant","Non","CDI",35,6409.4333,0,1,"H",59
+16.4,"Compta Finances","Non","CDI",35,1772.9833,1,1,"H",57
+17.3,"Commercial","Non","CDI",35,6902.35,0,1,"F",41
+5.6,"Consultant","Oui","CDI",24,4795.44,0,1,"H",37
+20.4,"RH","Non","CDI",35,3803.8,0,0,"H",49
+11.7,"Consultant","Non","CDI",35,3547.4833,1,0,"F",43
+10.2,"Commercial","Non","CDI",35,2916.55,1,1,"F",44
+11.9,"Compta Finances","Non","CDI",24,1059.76,0,1,"F",41
+10,"Commercial","Oui","CDI",35,7927.6167,1,0,"H",51
+5.2,"Compta Finances","Non","CDI",35,8332.5667,0,0,"F",44
+22.3,"Marketing","Non","CDI",35,4082.8667,0,1,"F",49
+17.2,"Commercial","Oui","CDI",35,9785.5333,0,1,"H",41
+14.2,"Compta Finances","Non","CDI",35,4421.0833,1,1,"H",58
+12.5,"Consultant","Non","CDI",35,2843.75,0,0,"H",53
+21.5,"RH","Oui","CDI",35,8563.1,0,0,"H",49
+22.2,"Compta Finances","Non","CDI",35,4988.3167,0,0,"H",56
+9.2,"Consultant","Oui","CDI",28,7269.08,1,1,"H",55
+12.4,"Marketing","Non","CDI",35,1669.85,1,0,"H",33
+23.2,"Commercial","Oui","CDI",35,7098,1,1,"H",55
+22.8,"R&D","Oui","CDI",35,6526.2167,0,1,"H",65
+11.7,"Compta Finances","Oui","CDI",35,8422.05,0,1,"F",59
+6.3,"Commercial","Oui","CDI",35,8337.1167,0,1,"H",40
+10.5,"Commercial","Non","CDI",35,9777.95,1,0,"F",47
+22.6,"Commercial","Non","CDI",35,3677.9167,0,0,"H",44
+22.7,"Marketing","Non","CDI",35,9940.2333,0,0,"H",46
+23.5,"Consultant","Oui","CDI",35,2777.0167,1,0,"H",63
+24.3,"Commercial","Non","CDI",35,6818.9333,1,0,"F",52
+24.2,"Marketing","Non","CDI",35,4424.1167,0,0,"F",53
+10,"RH","Oui","CDI",35,9928.1,1,0,"H",37
+1.8,"Compta Finances","Non","CDD",35,2123.3333,1,1,"F",63
+15.7,"Compta Finances","Non","CDI",35,4263.35,0,0,"H",59
+19.4,"Commercial","Non","CDI",35,8629.8333,0,0,"F",53
+24.4,"R&D","Oui","CDI",35,4663.75,0,1,"F",62
+20.6,"RH","Oui","CDI",24,4851.6,0,0,"F",42
+5.9,"Marketing","Non","CDI",35,5930.1667,0,0,"H",49
+21.9,"Commercial","Non","CDI",35,7496.8833,1,0,"F",47
+11.7,"RH","Oui","CDI",35,8108.1,0,0,"F",39
+20.5,"Commercial","Oui","CDI",35,6121.2667,0,0,"H",44
+16.2,"Marketing","Oui","CDI",35,4563.65,1,0,"F",54
+13,"Compta Finances","Oui","CDI",35,9978.15,0,1,"H",52
+10.2,"Marketing","Non","CDI",35,4624.3167,0,0,"H",45
+13.7,"Compta Finances","Oui","CDI",35,2079.35,1,1,"F",54
+13.2,"Consultant","Non","CDI",24,2055.04,0,1,"H",66
+18.7,"Commercial","Oui","CDI",35,9573.2,0,0,"H",53
+12.6,"Consultant","Oui","CDI",35,4289.1333,0,1,"F",68
+21.8,"Marketing","Oui","CDI",35,8056.5333,0,0,"F",54
+0.3,"Marketing","Non","CDD",35,3693.0833,1,1,"H",45
+9.8,"RH","Non","CDI",35,5106.6167,0,1,"F",55
+1.2,"Consultant","Non","CDD",32,2357.3333,1,1,"H",56
+17,"Commercial","Oui","CDI",35,3260.8333,1,0,"F",42
+2.9,"Consultant","Non","CDI",35,4449.9,1,1,"H",57
+22.2,"RH","Non","CDI",35,7877.5667,1,0,"F",51
+8.3,"Consultant","Non","CDI",35,4281.55,1,0,"H",42
+22.8,"Consultant","Non","CDI",35,4134.4333,0,0,"H",45
+8.8,"Marketing","Non","CDI",35,3256.2833,0,0,"F",60
+20.2,"Consultant","Oui","CDI",35,6591.4333,0,0,"F",65
+8.7,"Compta Finances","Oui","CDI",35,8696.5667,0,1,"H",66
+21.1,"Consultant","Non","CDI",35,2073.2833,0,1,"F",49
+9.3,"Consultant","Non","CDI",28,5097.2133,1,0,"H",49
+7.5,"RH","Oui","CDI",35,7710.7333,0,1,"H",42
+11.8,"RH","Non","CDI",35,3882.6667,0,1,"H",38
+14.9,"RH","Oui","CDI",35,3835.65,0,1,"F",61
+7.4,"Compta Finances","Non","CDI",35,9256.2167,1,0,"F",63
+19,"Consultant","Oui","CDI",35,5455.45,0,1,"H",58
+20,"Commercial","Oui","CDI",35,8428.1167,1,0,"H",57
+5.8,"Consultant","Oui","CDI",35,5810.35,1,0,"H",44
+15.6,"Marketing","Non","CDI",35,4022.2,0,1,"H",63
+24,"RH","Oui","CDI",35,5035.3333,0,1,"H",62
+23.9,"RH","Oui","CDI",35,3797.7333,0,0,"F",57
+21.2,"RH","Non","CDI",24,2735.2,0,1,"H",62
+10.8,"Marketing","Oui","CDI",35,4763.85,1,0,"F",45
+23.3,"R&D","Oui","CDI",35,7654.6167,1,1,"H",48
+10.6,"Commercial","Non","CDI",35,8828.5167,0,1,"F",39
+3.5,"Compta Finances","Non","CDI",35,2008.0667,0,0,"F",33
+4.8,"Compta Finances","Non","CDI",35,4198.1333,1,1,"F",38
+24.7,"Commercial","Non","CDI",35,3800.7667,1,1,"F",63
+5.5,"Compta Finances","Non","CDI",35,1979.25,1,1,"H",46
+24.2,"Commercial","Oui","CDI",35,2828.5833,0,0,"H",57
+23.3,"R&D","Oui","CDI",24,6178.64,0,0,"H",55
+22.7,"Compta Finances","Oui","CDI",32,6743.36,0,0,"F",48
+9.9,"Commercial","Oui","CDI",24,4882.8,1,1,"F",58
+21.1,"Commercial","Non","CDI",35,5805.8,0,0,"H",43
+13.9,"Commercial","Oui","CDI",35,9555,1,0,"F",40
+3.8,"Commercial","Non","CDI",35,2070.25,0,0,"F",64
+15.1,"RH","Non","CDI",35,5067.1833,1,0,"F",59
+14.3,"Commercial","Oui","CDI",35,7713.7667,1,0,"H",59
+22.6,"R&D","Non","CDI",24,4165.2,0,1,"H",62
+17.3,"RH","Non","CDI",35,7687.9833,0,0,"F",50
+9.3,"Compta Finances","Oui","CDI",35,4204.2,1,1,"F",56
+14.9,"Commercial","Non","CDI",35,9488.2667,1,1,"H",59
+19.3,"Marketing","Oui","CDI",35,3655.1667,0,1,"H",68
+1.8,"Consultant","Non","CDD",35,2558.6167,1,1,"H",43
+7.2,"Consultant","Oui","CDI",35,6413.9833,1,0,"F",50
+5.7,"Consultant","Non","CDI",35,1703.2167,1,0,"F",53
+6.6,"Consultant","Non","CDI",35,2027.7833,0,1,"F",42
+13.8,"Marketing","Non","CDI",35,7637.9333,0,0,"H",42
+7.9,"R&D","Oui","CDI",35,9573.2,1,0,"H",54
+5.5,"Compta Finances","Non","CDI",35,7185.9667,1,1,"H",66
+4.4,"RH","Non","CDI",35,5076.2833,0,0,"F",59
+14,"Marketing","Non","CDI",35,1598.5667,0,1,"F",39
+4.2,"R&D","Oui","CDI",35,5212.7833,0,0,"H",56
+15.8,"Compta Finances","Oui","CDI",35,8655.6167,1,0,"F",49
+7.2,"Consultant","Oui","CDI",35,3891.7667,0,0,"H",63
+6.7,"Marketing","Oui","CDI",35,9218.3,0,0,"F",48
+8.2,"Commercial","Non","CDI",35,2309.8833,0,0,"F",58
+19,"RH","Non","CDI",35,9642.9667,0,0,"H",60
+6.4,"RH","Oui","CDI",35,9635.3833,1,0,"H",48
+24.8,"Compta Finances","Oui","CDI",24,3853.2,1,1,"F",58
+8.1,"Compta Finances","Non","CDI",35,4013.1,0,1,"F",42
+19.1,"Consultant","Oui","CDI",35,6973.6333,0,1,"H",58
+14.2,"Consultant","Oui","CDI",35,2024.75,1,0,"H",51
+7,"Consultant","Non","CDI",35,6398.8167,1,0,"H",55
+24.2,"Consultant","Oui","CDI",35,4000.9667,1,1,"H",48
+16.9,"Consultant","Oui","CDI",35,6043.9167,1,1,"H",49
+21.2,"Consultant","Non","CDI",35,2918.0667,1,1,"H",53
+19.2,"Commercial","Oui","CDI",35,6031.7833,1,0,"H",51
+17.4,"Consultant","Oui","CDI",35,2561.65,0,0,"H",41
+16.2,"RH","Oui","CDI",24,2507.44,1,1,"F",53
+3.4,"Consultant","Oui","CDI",35,2675.4,1,0,"H",60
+12.5,"Compta Finances","Non","CDI",35,7601.5333,1,1,"F",48
+6,"R&D","Oui","CDI",35,6494.3667,0,0,"H",45
+16.2,"RH","Non","CDI",35,3012.1,1,1,"F",60
+14.3,"Compta Finances","Non","CDI",35,6127.3333,1,0,"F",55
+6.2,"Consultant","Non","CDI",35,2834.65,1,0,"H",68
+4.6,"Commercial","Oui","CDI",35,6212.2667,1,0,"F",51
+3,"Commercial","Non","CDI",35,6838.65,0,0,"F",37
+24.7,"Consultant","Non","CDI",35,5739.0667,1,1,"F",59
+16.2,"Commercial","Oui","CDI",35,5949.8833,1,0,"H",38
+13.1,"Marketing","Oui","CDI",35,8696.5667,1,0,"H",65
+13.8,"Commercial","Oui","CDI",35,9497.3667,1,1,"F",52
+13.8,"Commercial","Non","CDI",35,5749.6833,0,0,"H",60
+16.5,"Compta Finances","Non","CDI",35,7889.7,0,1,"F",39
+10.3,"Compta Finances","Oui","CDI",35,3436.7667,1,1,"H",42
+18.6,"Compta Finances","Non","CDI",24,5724.16,1,1,"H",41
+5.2,"RH","Non","CDI",35,8746.6167,0,1,"F",42
+7.9,"RH","Oui","CDI",35,7148.05,1,1,"F",41
+1.1,"Consultant","Non","CDD",35,2226.4667,1,1,"F",39
+9.9,"Marketing","Non","CDI",28,7358.8667,1,1,"H",36
+19.5,"RH","Non","CDI",24,3060.72,0,1,"F",57
+10.3,"Consultant","Oui","CDI",35,3459.5167,0,0,"F",61
+9.1,"Consultant","Non","CDI",35,9162.1833,1,1,"F",58
+1.1,"Compta Finances","Non","CDD",35,1920.1,1,1,"F",37
+15.2,"Compta Finances","Non","CDI",35,7753.2,1,0,"H",49
+13.3,"Consultant","Non","CDI",28,2813.72,1,1,"H",61
+24.1,"Marketing","Non","CDI",35,7184.45,1,1,"H",48
+20.5,"Compta Finances","Oui","CDI",35,2604.1167,1,0,"H",66
+18.6,"RH","Non","CDI",35,5293.1667,0,1,"F",67
+23.9,"Commercial","Oui","CDI",35,6163.7333,1,1,"F",54
+6.7,"RH","Non","CDI",24,4117.36,1,1,"F",67
+23.8,"Consultant","Non","CDI",35,9426.0833,1,0,"F",57
+23.1,"Commercial","Oui","CDI",35,5092.9667,1,1,"F",48
+18.2,"Commercial","Oui","CDI",35,8126.3,1,0,"F",52
+6.3,"Consultant","Non","CDI",35,9782.5,0,1,"F",50
+14.9,"Commercial","Non","CDI",35,1590.9833,1,0,"H",52
+8.6,"RH","Oui","CDI",35,7637.9333,1,0,"F",56
+7.9,"Consultant","Non","CDI",35,7304.2667,1,0,"F",43
+10.2,"Compta Finances","Non","CDI",35,8328.0167,1,0,"F",41
+11.9,"RH","Non","CDI",32,8860.8,1,1,"F",49
+11.8,"Commercial","Oui","CDI",24,4974.32,0,1,"F",65
+12.6,"Marketing","Non","CDI",35,6583.85,1,1,"F",64
